@@ -23,12 +23,12 @@ This project builds a leakage-free, interpretable PD model to support RAKBANK's 
 
 ```
 rakbank-pd-model/
+├── README.md
+├── pd_model.ipynb       
 ├── data/
-│   └── case1_credit_approval.csv.gz   # Input dataset (50,000 applicants)
-├── pd_model.py                        # Full model pipeline
-├── report/
-│   └── RAKBANK_PD_Model_TheoLi.html  # HTML report (open in browser)
-└── README.md
+│   └── case1_credit_approval.csv.gz
+└── report/
+    └── RAKBANK_PD_Model_TheoLi.html  
 ```
 
 ---
