@@ -119,14 +119,3 @@ The Decline band actual default rate is over 20 times higher than the Auto Appro
 4. **Logistic Regression performs well on this dataset.** The model achieves a Gini of 0.78, exceeding the 0.7 industry threshold, while remaining fully interpretable for regulatory and customer-facing explanations.
 
 ---
-
-## Dependencies
-
-```
-pandas >= 1.5
-numpy >= 1.23
-scikit-learn >= 1.2
-shap >= 0.41
-matplotlib >= 3.6
-seaborn >= 0.12
-```
